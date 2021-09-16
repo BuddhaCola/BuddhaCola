@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### 🦑 Sup!
+### I'm Eugene
+### Junior Backend developer 
+#### School 21 student (Kazan, Russia)
+#### C | C++ | Java | Shell | Docker | K8S
+#### 📷 I also [photograph](https://www.instagram.com/buddha_cola/)
+#### 🕺 The [work of my life](https://open.spotify.com/playlist/0XeV67r1UPjN7iV0WIfsKy?si=3bc921d264c84705)!
 <!--
 **BuddhaCola/BuddhaCola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
