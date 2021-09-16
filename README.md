@@ -1,6 +1,5 @@
 ### 🦑 Sup!
-### I'm Eugene
-### Junior Backend developer 
+### I'm Eugene!
 #### School 21 student (Kazan, Russia)
 #### C | C++ | Java | Shell | Docker | K8S
 #### 📷 I also [photograph](https://www.instagram.com/buddha_cola/)
