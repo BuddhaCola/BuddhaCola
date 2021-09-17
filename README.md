@@ -1,6 +1,7 @@
 ### 🦑 Sup!
 I'm Eugene!\
-School 21 student (Kazan, Russia)
+Backend developer\
+School 21 student (Kazan, Russia)\
  C | C++ | Java | Shell | Docker | K8S\
 [📷](https://www.instagram.com/buddha_cola/)
 [🕺](https://open.spotify.com/playlist/0XeV67r1UPjN7iV0WIfsKy?si=3bc921d264c84705)
