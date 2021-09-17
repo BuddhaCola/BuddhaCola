@@ -1,5 +1,5 @@
 ### 🦑 Sup!
-**I'm Eugene!**\
+<!-- **I'm Eugene!**\ -->
 Backend developer\
 School 21 student (Kazan, Russia)\
  C | C++ | Java | Shell | Docker | K8S\
