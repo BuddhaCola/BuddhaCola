@@ -2,7 +2,7 @@
 <!-- **I'm Eugene!**\ -->
 Backend developer\
 School 21 student (Kazan, Russia)\
- C | C++ | Java | Shell | Docker | K8S\
+ C | C++ | Shell | Docker | K8S\
 [📷](https://www.instagram.com/buddha_cola/)
 [🕺](https://open.spotify.com/playlist/0XeV67r1UPjN7iV0WIfsKy?si=3bc921d264c84705)
 [☕️](https://t.me/buddha_cola)
