@@ -1,6 +1,6 @@
 ### 🍝 Delicious spaghetti code with bugs are no exception!
 <!-- **I'm Eugene!**\ -->
-Backend developer\
+Backache developer\
 School 21 student (Kazan, Russia)\
  C | C++ | Shell | Docker | K8S\
 [📷](https://www.instagram.com/buddha_cola/)
