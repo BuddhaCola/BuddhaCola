@@ -1,4 +1,4 @@
-### 🦑 Sup!
+### 🍝 Delicious spaghetti with bugs are no exception!
 <!-- **I'm Eugene!**\ -->
 Backend developer\
 School 21 student (Kazan, Russia)\
