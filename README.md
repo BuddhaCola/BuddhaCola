@@ -1,4 +1,4 @@
-### 🍝 Enjoy delicious spaghetti code!
+### 🍝 Delicious spaghetti code!
 School 21 student (Kazan, Russia)\
 C++ | C# | Docker | k8s | Bash\
 <img src="https://media.giphy.com/media/nqZ98aHmtlzorqCzgG/giphy.gif" width="250">\
