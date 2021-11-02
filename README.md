@@ -1,8 +1,7 @@
-### 🍝 Delicious spaghetti code with bugs are no exception!
-<!-- **I'm Eugene!**\ -->
-Backache developer\
+### 🍝 Enjoy delicious spaghetti code!
 School 21 student (Kazan, Russia)\
- C | C++ | Shell | Docker | K8S\
+C++ | C# | Docker | k8s | Bash\
+<img src="https://media.giphy.com/media/nqZ98aHmtlzorqCzgG/giphy.gif" width="250">\
 [📷](https://www.instagram.com/buddha_cola/)
 [🕺](https://open.spotify.com/playlist/0XeV67r1UPjN7iV0WIfsKy?si=3bc921d264c84705)
 [☕️](https://t.me/buddha_cola)
