@@ -1,8 +1,8 @@
 ### 🍝 Delicious spaghetti code!
 School 21 student\
 C# Developer at Sber\
-C++ | C# | Docker & k8s administration\
 <img src="https://media.giphy.com/media/nqZ98aHmtlzorqCzgG/giphy.gif" width="250">\
+C++ | C# | Docker & k8s administration\
 [📷](https://www.instagram.com/buddha_cola/)
 [🕺](https://open.spotify.com/playlist/0XeV67r1UPjN7iV0WIfsKy?si=3bc921d264c84705)
 [☕️](https://t.me/buddha_cola)
