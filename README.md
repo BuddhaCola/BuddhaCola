@@ -1,6 +1,6 @@
 ### 🍝 Delicious spaghetti code!
 School 21 student\
-C# Developer at Sber\
+C# backend developer at Sber\
 <img src="https://media.giphy.com/media/nqZ98aHmtlzorqCzgG/giphy.gif" width="250">\
 C++ | C# | Docker & k8s administration\
 [📷](https://www.instagram.com/buddha_cola/)
