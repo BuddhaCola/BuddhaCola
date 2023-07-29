@@ -2,6 +2,11 @@
 ### Web developer 
 ### Student @42Wolfsburg software engeneering school
 ***
+### 📍 Wolfsburg, Germany
+- [LinkedIn](https://www.linkedin.com/in/evgeny-satyev//)
+- [Telegram](https://t.me/buddha_cola)
+- Email: [evgenysatyev@gmail.com](mailto:evgenysatyev@gmail.com)
+***
 ### Tech stack:
 - C#, ASP.NET, Entity Framework
 - C++
@@ -12,8 +17,3 @@
 - NGINX, IIS
 - Git, BitBucket
 - Swagger
-***
-### 📍 Wolfsburg, Germany
-- [LinkedIn](https://www.linkedin.com/in/evgeny-satyev//)
-- [Telegram](https://t.me/buddha_cola)
-- Email: [evgenysatyev@gmail.com](mailto:evgenysatyev@gmail.com)
