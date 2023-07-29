@@ -1,21 +1,18 @@
-### 🍝 Delicious spaghetti code!
-Student at 42 Wolfsburg\
-<img src="https://media.giphy.com/media/nqZ98aHmtlzorqCzgG/giphy.gif" width="250">\
-C++ | C# | Docker & k8s\
-[📷](https://www.instagram.com/buddha_cola/)
-[🕺](https://open.spotify.com/playlist/0XeV67r1UPjN7iV0WIfsKy?si=3bc921d264c84705)
-[☕️](https://t.me/buddha_cola)
-<!--
-**BuddhaCola/BuddhaCola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hey! I am Evgeny 👋
+### Web developer 
+### Student @42Wolfsburg software engeneering school
+***
+### Tech stack:
+- C#, ASP.NET, Entity Framework
+- C++
+- TypeScript, NestJS, Angular Docker, Compose, k8s
+- MsSQL, Postgres
+- Azure DevOps
+- NGINX, IIS
+- Git, BitBucket
+- Swagger
+***
+### 📍 Wolfsburg, Germany
+- [LinkedIn](https://www.linkedin.com/in/evgeny-satyev//)
+- [Telegram](https://t.me/buddha_cola)
+- Email: [evgenysatyev@gmail.com](mailto:evgenysatyev@gmail.com)
