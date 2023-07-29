@@ -5,7 +5,8 @@
 ### Tech stack:
 - C#, ASP.NET, Entity Framework
 - C++
-- TypeScript, NestJS, Angular Docker, Compose, k8s
+- TypeScript, NestJS, Angular
+- Docker, Compose, k8s
 - MsSQL, Postgres
 - Azure DevOps
 - NGINX, IIS
