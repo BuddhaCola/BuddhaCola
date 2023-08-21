@@ -3,10 +3,7 @@
 ### Student @42Wolfsburg software engeneering school
 ***
 ### 📍 Wolfsburg, Germany
-- [LinkedIn](https://www.linkedin.com/in/evgeny-satyev//)
-- [Telegram](https://t.me/buddha_cola)
-- [linktr.ee](https://linktr.ee/buddha_cola)
-- Email: [evgenysatyev@gmail.com](mailto:evgenysatyev@gmail.com)
+Let's connect: 🔗 [linktr.ee](https://linktr.ee/buddha_cola)
 ***
 ### Tech stack:
 - C#, ASP.NET, Entity Framework
