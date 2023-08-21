@@ -5,6 +5,7 @@
 ### 📍 Wolfsburg, Germany
 - [LinkedIn](https://www.linkedin.com/in/evgeny-satyev//)
 - [Telegram](https://t.me/buddha_cola)
+- [linktr.ee](https://linktr.ee/buddha_cola)
 - Email: [evgenysatyev@gmail.com](mailto:evgenysatyev@gmail.com)
 ***
 ### Tech stack:
