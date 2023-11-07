@@ -8,7 +8,7 @@ Let's connect: 🔗 [linktr.ee](https://linktr.ee/buddha_cola)
 ### Tech stack:
 - C#, ASP.NET, Entity Framework
 - TypeScript, React
-- C++
+- C++, Go
 - Docker, Compose, k8s
 - MsSQL, PostgreSQL
 - Azure DevOps
