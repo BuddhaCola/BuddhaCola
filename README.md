@@ -2,7 +2,7 @@
 ### Web developer 
 ### Student @42Wolfsburg software engeneering school
 ***
-### 📍 Wolfsburg, Germany
+### 📍 Berlin, Germany
 Let's connect: 🔗 [linktr.ee](https://linktr.ee/buddha_cola)
 ***
 ### Tech stack:
